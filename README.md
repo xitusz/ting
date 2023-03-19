@@ -1,5 +1,5 @@
 # TING - Trybe is not Google
-[5/6] [Ciência da Computação](https://github.com/xitusz/Trybe/tree/main/04_Ci%C3%AAncia-da-Computa%C3%A7%C3%A3o)
+[5/5] [Ciência da Computação](https://github.com/xitusz/Trybe/tree/main/04_Ci%C3%AAncia-da-Computa%C3%A7%C3%A3o)
 
 ---
 
